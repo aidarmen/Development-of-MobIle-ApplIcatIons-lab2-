@@ -1,4 +1,4 @@
-# evelopment-of-MobIle-ApplIcatIons-lab2
+# Development-of-MobIle-ApplIcatIons-lab2
 ## Task 1
 ![Alt text](https://github.com/aidarmen/Development-of-MobIle-ApplIcatIons-lab2-/blob/master/task1_1.PNG?raw=true)
 ![Alt text](https://github.com/aidarmen/Development-of-MobIle-ApplIcatIons-lab2-/blob/master/task1_2.PNG?raw=true)
